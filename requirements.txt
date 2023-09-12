@@ -1,0 +1,6 @@
+PyAutoGUI==0.9.54
+pyfiglet==1.0.0
+pynput==1.7.6
+selenium==2.53.6
+webbot==0.34
+webdriver_manager==4.0.0
